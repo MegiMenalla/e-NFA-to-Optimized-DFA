@@ -1,0 +1,16 @@
+0 1
+a b c d e f
+d c e
+a
+a 1 c
+a 0 b
+b 0 a
+b 1 d
+c 0 e
+c 1 f
+d 0 e
+d 1 f
+f 0 f
+f 1 f
+e 0 e
+e 1 f
